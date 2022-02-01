@@ -1,5 +1,5 @@
 /*
-Lab #5
+Lab #5 Part 1
 ENGR 1L
 Owen Matejka
 1 February 2022
